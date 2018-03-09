@@ -1,19 +1,4 @@
- /*
- * mqtt_ac_control.c
- * Date: 12-May-2017
- * Revision: 1.0
- *  _____               __  _
-   |__  _|             / / | |
-	 | | (_)__ __ ___ _| |_| |____ __   __
-	 | | | |  '  | __(_   _) | ___)\ \ / /
-	 | | | | | | | ___ | | | | ___  \   /
-	 |_| |_|_|_|_|____)|_| |_|____) /_/\_\
- *  Copyright (C) 2016 - 2017 Timeflex Data pvt ltd
- *
- *
- *   Maintainer: Sijo k saju
- *	 Usage:
- */
+
 #include "espressif/esp_common.h"
 #include "esp/uart.h"
 #include "esp8266.h"
